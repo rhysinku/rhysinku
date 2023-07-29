@@ -1,7 +1,7 @@
 ![MasterHead](https://drive.google.com/uc?id=12a-2ZC6oOQS2yZWBOGo-gHj_ZzxngglH)
 <h1 align="center">Hi 👋, I'm Rhysin Villahermosa</h1>
 <h3 align="center">A Growing Web Developer</h3>
-
+<img class="hero-logo" align="right" alt="PP LOGO" width="400" src="https://i.imgur.com/8uPepvC.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhysinku&label=Profile%20views&color=0e75b6&style=flat" alt="rhysinku" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +21,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhysinku&" alt="rhysinku" /></p>
 
+
+<style>
+    .hero-logo{
+        border:1px solid red;
+    }
+</style>
