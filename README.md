@@ -20,10 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhysinku&show_icons=true&locale=en" alt="rhysinku" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhysinku&" alt="rhysinku" /></p>
-
-
-<style>
-    .hero-logo{
-        border:1px solid red;
-    }
-</style>
