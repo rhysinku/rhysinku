@@ -1,7 +1,9 @@
+![MasterHead](https://drive.google.com/uc?id=12a-2ZC6oOQS2yZWBOGo-gHj_ZzxngglH)
+
 # 💫 About Me:
 Hi 👋, I'm Rhysin Villahermosa<br><br>I am a passionate and adaptable developer with a strong commitment to continuous learning. Embracing challenges as opportunities for growth, I stay current with industry trends and thrive on exploring new technologies.<br>
 <p><strong>Email Me<strong><a href="mailto:rhysinqvillahermosa@gmail.com">rhysinqvillahermosa@gmail.com</a><p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhysinku&label=Profile%20views&color=0e75b6&style=flat" alt="rhysinku" /> </p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rhysinku) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pockeypepero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhysinvillahermosa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12361238) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pockeypepero) 
 
